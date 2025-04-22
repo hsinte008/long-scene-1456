@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "long-scene-1456",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "82bf3a93-bfeb-4917-a19b-a6c12869a8a2",
+      "database_name": "lucky-snow-4dfe-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
